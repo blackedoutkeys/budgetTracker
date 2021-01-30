@@ -19,7 +19,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 //connect with local db through mongoose
-mongoose.connect("mongodb://localhost/budgets", {
+mongoose.connect("mongodb://localhost/budget", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
