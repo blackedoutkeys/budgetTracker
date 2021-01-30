@@ -2,6 +2,8 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
+
+//schema setup for entering data 
 const transactionSchema = new Schema(
   {
     name: {
