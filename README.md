@@ -27,13 +27,15 @@
 
   ## Features
  The user is greeted by the home screen upon "arriving" at the app.
-![Image of Home Screen ](https://github.com/blackedoutkeys/fitnessTracker/blob/main/images/homescreen.png)
+![Image of Home Screen ]https://github.com/blackedoutkeys/budgetTracker/blob/main/images/mainScreen.png)
 
 Then the user can continue from where they left off in a previous session, or start a new day of tracking:
 
-![Image of Adding Expense ](https://github.com/blackedoutkeys/fitnessTracker/blob/main/images/user-entry.png)
+![Image of Adding Expense ](https://github.com/blackedoutkeys/budgetTracker/blob/main/images/oneExpense.png)
 
-![Image of Updated Screen](https://github.com/blackedoutkeys/fitnessTracker/blob/main/images/resistanceTracking.png)
+![Image of Updated Screen](https://github.com/blackedoutkeys/budgetTracker/blob/main/images/otherexample.png)
+
+![Image of Updated Screen](https://github.com/blackedoutkeys/budgetTracker/blob/main/images/finalbudget.png)
 
 
 Enjoy tracking your budget!
